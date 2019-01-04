@@ -1,2 +1,2 @@
 # PTM2_JAVA_CLIENT
-Client for PTM2 project
+To run the client: src ->controller/boot->Run.java
